@@ -1,4 +1,4 @@
 # FinalBoss
 My final PHP project
-https://github.com/roma5062/FinalBoss](https://roma5062.github.io/FinalBoss/
+https://github.com/roma5062/FinalBoss
 Maybe it will be useful
